@@ -40,8 +40,12 @@ p { font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, Geneva, Verdan
     color: rgb(33, 49, 61);
 }
 
-li {
+div.presentation-block {
     text-align: center;
+}
+
+ul {
+    list-style-type: none;
 }
 
 a {
